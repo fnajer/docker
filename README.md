@@ -4,7 +4,7 @@ This tutorial has been written with the intent of helping folks get up and runni
 with containers and is designed to work with Docker Desktop. While not going too much 
 into depth, it covers the following topics:
 
-- Running your first container
+- Running your first containerfdf
 - Building containers
 - Learning what containers are running and removing them
 - Using volumes to persist data
